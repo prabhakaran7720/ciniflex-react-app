@@ -1,0 +1,15 @@
+.container{
+    margin-top: 7rem;
+}
+
+.title{
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+}

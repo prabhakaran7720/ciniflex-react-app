@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    width: 70%;
+    padding-left: 70px;
+}
+
+.item{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.button{
+    font-size: 1.2rem;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.active{
+    color: #5B90DC;
+}
+
+.logout{
+    display: flex;
+    gap: 7px;
+    justify-content: flex-end;
+    align-items: center;
+    width: 20%;
+}

@@ -1,0 +1,22 @@
+.header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #000;
+    z-index: 2;
+}
+
+.logo{
+    font-size: 2.4rem;
+    font-weight: 500;
+    width: 20%;
+    color: #FFF;
+    text-decoration: none;
+}
+
+span{
+    color: #D8C04F;
+}
+

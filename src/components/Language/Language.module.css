@@ -1,0 +1,20 @@
+.container{
+    margin-top: 5rem;
+}
+
+.title{
+    font-size: 1.2rem;
+}
+
+.languages{
+
+    display: flex;
+    justify-content: space-between;
+    width: 14%;
+}
+
+.language{
+    color: #5B90DC;
+    padding: 5px 10px;
+    border: 1px solid #5B90DC;
+}

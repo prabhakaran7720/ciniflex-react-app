@@ -1,0 +1,49 @@
+.title{
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.signin{
+    color: #5B90DC;
+    cursor: pointer;
+}
+
+.wrap{
+    display: flex;
+    gap: 50px;
+    margin-top: 45px;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    padding-right: 8rem;
+}
+
+.image{
+
+    width: 29rem;
+    height: 18rem;
+    /* width: 23rem;
+    height: 16rem; */
+    object-fit: cover;
+}
+
+.description{
+    font-size: 1.5rem;
+}
+
+.btn{
+    width: 28%;
+}

@@ -1,0 +1,21 @@
+.video{
+    width: 29rem;
+    height: 18rem;
+}
+
+
+.name{
+
+    font-size: 1.5rem;
+    margin-top: 8px;
+}
+
+.container{
+    position: relative;
+}
+
+.vid{
+    position: absolute;
+    top: 7rem;
+    left: 12rem;
+}

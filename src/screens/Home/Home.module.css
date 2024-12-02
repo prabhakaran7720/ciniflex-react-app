@@ -1,0 +1,13 @@
+.bgimage{
+    height: 100vh;
+    margin-top: -50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content{
+    background-color: #151515;
+    margin-top: 0;
+    padding: 110px 140px;
+    color: #FFF;
+}

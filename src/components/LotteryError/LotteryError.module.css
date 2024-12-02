@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+    margin-top: -107px;
+    padding: 15px;
+    background-image: linear-gradient(to right, #E6A644 , #A88932);
+}
+
+.success{
+    margin: 15px;
+    font-size: 2.5rem;
+    color: #FFF;
+    font-weight: 300;
+}
